@@ -139,6 +139,10 @@ main {
   overflow: hidden;
 }
 
+.author-card + .author-card {
+  margin-top: 1.5rem;
+}
+
 .author-card img {
   width: 100%;
   display: block;
