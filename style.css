@@ -330,6 +330,23 @@ main {
   color: var(--tan);
 }
 
+.find-it {
+  margin-top: 0.5rem;
+  margin-bottom: 1.8rem;
+  font-size: 0.78rem;
+  font-family: var(--font-sans);
+  letter-spacing: 0.06em;
+}
+
+.find-it a {
+  color: var(--gold);
+  text-decoration: none;
+}
+
+.find-it a:hover {
+  text-decoration: underline;
+}
+
 /* ── Footer ── */
 footer {
   background: var(--dark);
